@@ -1,0 +1,31 @@
+
+@import '/sources/assets/css/global.css';
+
+footer{
+    font-family: 'inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    letter-spacing: 1px;
+
+    width: 100%;
+    color: var(--color-neutral-40);
+}
+
+#footer_content{
+    background-color: var(--color-neutral-10);
+    display: grid;
+    grid-template-columns: repeat(1fr);
+    padding: 3rem 3.5rem;
+}
+
+#footer_contacts p{
+    margin-bottom: 0.75rem;
+}
+
+#footer_social_media{
+    display: flex;
+    gap: 1rem;
+    margin-top: 1.5rem;
+}
+
