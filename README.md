@@ -32,6 +32,6 @@ O projeto foi construído utilizando as tecnologias fundamentais da Web, com foc
 
 1. Clone este repositório:
 ```bash
-git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+git clone https://github.com/BorisChertach/Identificador-Acessorio.git
 
 2. Abra o arquivo index.html
